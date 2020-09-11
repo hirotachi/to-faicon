@@ -6,10 +6,11 @@
   "repository": "https://github.com/hirotachi/to-faicon.git",
   "author": "hirotachi",
   "license": "MIT",
+  "files": ["dist/**/*"],
   "scripts": {
 	"test": "jest",
-	"build": "yarn tsc -p tsconfig.json"
-
+	"build": "yarn tsc -p tsconfig.json",
+	"publish": "yarn build && npm publish"
   },
   "devDependencies": {
     "@types/jest": "^26.0.13",
