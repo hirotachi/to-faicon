@@ -1,0 +1,25 @@
+{
+  "extends": [
+	"airbnb-typescript/base",
+	"prettier/@typescript-eslint"
+  ],
+  "plugins": [
+	"jest"
+  ],
+  "parserOptions": {
+	"project": "./tsconfig.json"
+  },
+  "rules": {
+	"no-tabs": "off",
+	"react/prop-types": "off",
+	"no-console": "warn",
+	"global-require": "warn",
+	"no-use-before-define": "warn",
+	"arrow-parens": "off",
+	"import/prefer-default-export": "off",
+	"implicit-arrow-linebreak": "off",
+	"class-methods-use-this": "off",
+	"@typescript-eslint/no-unused-vars": "off",
+	"@typescript-eslint/camelcase": "off"
+  }
+}
