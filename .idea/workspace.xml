@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7ba3fa7-cac8-43f3-9de1-cc3dcbfa6081" name="Default Changelist" comment="adjust package to">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="f7ba3fa7-cac8-43f3-9de1-cc3dcbfa6081" name="Default Changelist" comment="try to fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -74,22 +72,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599847052489</updated>
-      <workItem from="1599847053678" duration="6335000" />
+      <workItem from="1599847053678" duration="6857000" />
     </task>
+    <task id="LOCAL-00001" summary="add README.md">
+      <created>1599853526426</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599853526426</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="add README.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="429" y="247" width="732" height="434" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599852990830">
       <screen x="0" y="21" width="1600" height="879" />
     </state>
     <state x="429" y="247" width="732" height="434" key="#com.intellij.fileTypes.FileTypeChooser/0.21.1600.879@0.21.1600.879" timestamp="1599852990830" />
-    <state x="282" y="21" width="1026" height="879" key="CommitChangelistDialog2" timestamp="1599852557889">
+    <state x="282" y="21" width="1026" height="879" key="CommitChangelistDialog2" timestamp="1599853928519">
       <screen x="0" y="21" width="1600" height="879" />
     </state>
-    <state x="282" y="21" width="1026" height="879" key="CommitChangelistDialog2/0.21.1600.879@0.21.1600.879" timestamp="1599852557889" />
+    <state x="282" y="21" width="1026" height="879" key="CommitChangelistDialog2/0.21.1600.879@0.21.1600.879" timestamp="1599853928519" />
     <state width="1600" height="305" key="GridCell.Tab.0.bottom" timestamp="1599851140944">
       <screen x="0" y="21" width="1600" height="879" />
     </state>
@@ -110,5 +120,9 @@
       <screen x="0" y="21" width="1600" height="879" />
     </state>
     <state x="266" y="95" width="1067" height="737" key="SettingsEditor/0.21.1600.879@0.21.1600.879" timestamp="1599847683929" />
+    <state x="395" y="192" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1599853531160">
+      <screen x="0" y="21" width="1600" height="879" />
+    </state>
+    <state x="395" y="192" width="800" height="543" key="Vcs.Push.Dialog.v2/0.21.1600.879@0.21.1600.879" timestamp="1599853531160" />
   </component>
 </project>
